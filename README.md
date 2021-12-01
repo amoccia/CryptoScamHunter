@@ -30,3 +30,7 @@ If you have any doubt about any website regarding crypto just contact me.
 
 Telegram: https://t.me/cryptoscamhunterteam
 Twitter: @BitcoinGuru
+
+# To Do List
+
+* Create a downloadable blacklist of domains only to be used on firewall
