@@ -26,7 +26,7 @@ Usually scammers using Twitter and Telegram contact crypto holder to invite them
 
 
 # Contact
-If you have any doubt about any website regarding crypto just contact me.
+If you have any doubt about any website regarding crypto just contact us and we will investigate about it.
 
 Telegram: https://t.me/cryptoscamhunterteam
 Twitter: @BitcoinGuru
