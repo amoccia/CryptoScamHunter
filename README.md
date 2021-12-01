@@ -14,11 +14,9 @@ https[:]//defi-usdtetc.com/
 This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
 
 
-
-https[:]//www.webwalletchain.com/
+https[:]//webwalletchain.com
 
 This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
-
 
 
 https[:]//assetgroup.io/
