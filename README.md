@@ -15,12 +15,16 @@ This website acts like a DEFI platform where you can connect your wallet in orde
 
 
 
+https[:]//www.webwalletchain.com/
+
+This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
+
+
+
 https[:]//assetgroup.io/
 
 This website acts like an investment company website that accepts funds from customer in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
-
-
 
 
 # Contact
