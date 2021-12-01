@@ -16,3 +16,9 @@ Usually scammers using Twitter and Telegram contact crypto holder to invite them
 https[:]//assetgroup.io/
 This website act like an investment company website that accept funds from customer in order to invest them and to earn a gain but it's a frraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
+
+# Contact
+If you have any doubt about any website regarding crypto just contact me.
+
+Telegram: https://t.me/cryptoscamhunterteam
+Twitter: @BitcoinGuru
