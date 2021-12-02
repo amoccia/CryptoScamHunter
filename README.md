@@ -80,7 +80,15 @@ This website acts like an investment company website that accepts funds from cus
 This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 
 
-fxtradingz.com
+* cryptohingelimited[.]com
+
+This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+
+
+* coin-connect[.]com
+
+This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+
 #
 
 ### Report your case to authorities
