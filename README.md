@@ -1,5 +1,6 @@
 # CryptoScamHunter
-  
+---
+
 Our project was born with the aim of preventing online fraud based on cryptocurrencies by investigating and tracking websites that cheat holders.
 We are activily researching for new frauds and scammers.
 
