@@ -9,6 +9,14 @@ We manually analyze several suspected fraud websites every day and then report t
 We keep an updated blacklist that can be used by a browser plugin or firewall to block fraudulent websites.
 We report scammers that are using Twitter or Telegram to scam victims.
 
+# Why are these websites still online
+
+These website usually last last a few years. During the period of their activity very often the real IP of the server hosting this website is protected by systems like CloudFlare and for this reason the authorities find it difficult to completely remove the website from the internet.
+
+# What you can do to avoid visiting these sites
+
+You can donwload our blacklist and use it in a browser plugin or in your firewall. 
+
 # CryptoScamHunter-BlackList
 
 This is a list of website to avoid:
