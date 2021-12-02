@@ -120,6 +120,7 @@ We will never contact you to help fill this form! You have to do it by yourself.
 If you have any doubt about any website regarding crypto just contact us and we will investigate about it.
 
 Telegram: https://t.me/cryptoscamhunterteam
+
 Twitter: @BitcoinGuru
 
 #
@@ -129,6 +130,7 @@ Twitter: @BitcoinGuru
 This service is free for now, please support us making a tip donation, thanks!
 
 BTC: bc1qmeagxldk380zur74qj4vx76hacy22xr9yyzyad
+
 ETH: 0xA9abAfB447313eB20042A899568A9dAFe382b84E
 
 #
