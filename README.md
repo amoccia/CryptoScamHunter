@@ -130,7 +130,7 @@ ETH: 0xA9abAfB447313eB20042A899568A9dAFe382b84E
 
 ### To Do List
 
-* Create a downloadable blacklist of domains only to be used on firewall
+* ~~Create downloadable blacklists~~
 * Create a database with all active and passive domains
 * Create a website with a search form using our database
 
