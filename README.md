@@ -1,4 +1,4 @@
-# CryptoScamHunter
+### CryptoScamHunter
 ---
 
 Our project was born with the aim of preventing online fraud based on cryptocurrencies by investigating and tracking websites that cheat holders.
