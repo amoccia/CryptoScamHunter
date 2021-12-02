@@ -33,19 +33,19 @@ This website acts like a DEFI platform where you can connect your wallet in orde
 
 * assetgroup[.]io
 
-This website acts like an investment company website that accepts funds from customer in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
 
 
 * premiumalliancelimited[.]com
 
-This website acts like an investment company website that accepts funds from customer in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
 
 
 * equitcapital[.]com
 
-This website acts like an investment company website that accepts funds from customer in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
 
 # Report your case to authorities
