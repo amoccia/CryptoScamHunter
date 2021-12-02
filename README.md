@@ -73,3 +73,4 @@ Twitter: @BitcoinGuru
 
 * Create a downloadable blacklist of domains only to be used on firewall
 * Create a database with all active and passive domains
+* Create a website with a search form using our database
