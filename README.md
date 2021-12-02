@@ -76,6 +76,9 @@ If you have been a victim of these sites please report your case to the appropri
 * https://www.scamwatch.gov.au/report-a-scam - AUS GOV form to report a scam to the ACCC
 * https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/ - CitizenAdvice UK form to report a scam
 
+You have to fill the form by yourself because this asks for personal information about you.
+We will never contact you to help fill this form! You have to do it by yourself.
+
 #
 
 ### Contact
