@@ -49,7 +49,7 @@ Usually scammers using Twitter and Telegram contact crypto holder to invite them
 This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
 
-* cryptofxtrades.online
+* cryptofxtrades[.]online
 
 This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
