@@ -72,3 +72,4 @@ Twitter: @BitcoinGuru
 # To Do List
 
 * Create a downloadable blacklist of domains only to be used on firewall
+* Create a database with all active and passive domains
