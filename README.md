@@ -47,6 +47,14 @@ If you have any doubt about any website regarding crypto just contact us and we 
 Telegram: https://t.me/cryptoscamhunterteam
 Twitter: @BitcoinGuru
 
+# Support us
+This service is free for now, please support us making a tip donation, thanks!
+
+BTC: bc1qmeagxldk380zur74qj4vx76hacy22xr9yyzyad
+
+Telegram: https://t.me/cryptoscamhunterteam
+Twitter: @BitcoinGuru
+
 # To Do List
 
 * Create a downloadable blacklist of domains only to be used on firewall
