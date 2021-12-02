@@ -19,7 +19,7 @@ These website usually last last a few years. During the period of their activity
 
 ### What you can do to avoid visiting these sites
 
-You can donwload our blacklist and use it in a browser plugin or in your firewall. 
+You can donwload (https://github.com/amoccia/CryptoScamHunter/blob/main/BlackList-OnlyDomains) our blacklist and use it in a browser plugin or in your firewall. 
 #
 
 ### CryptoScamHunter-BlackList
