@@ -33,6 +33,11 @@ and use it in a browser plugin, in your firewall or updating your PC's host file
 Usually scammers using Twitter and Telegram contact crypto holder to invite them to visit a website (also using a dAPP browser like Metamask).
 This is a list of website to avoid:
 
+* mining-pool[.]app
+
+This website acts like a MINING platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
+
+
 * defi-usdtetc[.]com or eth-gwing[.]com
 
 This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
