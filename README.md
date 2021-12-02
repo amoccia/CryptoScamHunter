@@ -6,6 +6,7 @@ We are activily researching for new frauds and scammers.
 ---
 
 ### What CryptoScamHunter does
+#
 
 We manually analyze several suspected fraud websites every day and then report them to agencies and authorities.
 We keep an updated blacklist that can be used by a browser plugin or firewall to block fraudulent websites.
