@@ -19,11 +19,12 @@ You can donwload our blacklist and use it in a browser plugin or in your firewal
 
 # CryptoScamHunter-BlackList
 
+Usually scammers using Twitter and Telegram contact crypto holder to invite them to visit a website (also using a dAPP browser like Metamask).
 This is a list of website to avoid:
 
 * defi-usdtetc[.]com or eth-gwing[.]com
 
-This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
+This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
 
 
 * webwalletchain[.]com
@@ -44,6 +45,11 @@ Usually scammers using Twitter and Telegram contact crypto holder to invite them
 
 
 * equitcapital[.]com
+
+This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
+
+* cryptofxtrades.online
 
 This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
