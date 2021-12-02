@@ -34,6 +34,12 @@ Usually scammers using Twitter and Telegram contact crypto holder to invite them
 This website acts like an investment company website that accepts funds from customer in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
 Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
 
+
+* equitcapital[.]com
+
+This website acts like an investment company website that accepts funds from customer in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+Usually scammers using Twitter and Telegram contact crypto holder to invite them into this scam.
+
 # Report your case to authorities
 If you have been a victim of these sites please report your case to the appropriate authorities, you may have a chance in the future to get your money back.
 
