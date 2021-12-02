@@ -7,6 +7,7 @@ We are activily researching for new frauds and scammers.
 
 We manually analyze several suspected fraud websites every day and then report them to agencies and authorities.
 We keep an updated blacklist that can be used by a browser plugin or firewall to block fraudulent websites.
+We report scammers that are using Twitter or Telegram to scam victims.
 
 # CryptoScamHunter-BlackList
 
