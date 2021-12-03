@@ -7,9 +7,8 @@ We are activily researching for new frauds and scammers.
 
 ### What CryptoScamHunter does
 
-We manually analyze several suspected fraud websites every day and then we report them to agencies and authorities.
-We keep an updated blacklist that can be used by a browser plugin or firewall to block fraudulent websites.
-We report scammers that are using Twitter or Telegram to scam victims.
+ * Our team manually analyze suspected scam websites and then update our blacklists that can be used to block fraudulent websites.
+ * Our team report every scammers using Twitter or Telegram to scam victims. We gather and send proofs and information about the scammer to Telegram / Twitter Abuse Reporting.
 
 #
 
