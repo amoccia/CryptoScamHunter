@@ -7,14 +7,16 @@ We are activily researching for new frauds and scammers.
 
 ### What CryptoScamHunter does
 
-We manually analyze several suspected fraud websites every day and then report them to agencies and authorities.
+We manually analyze several suspected fraud websites every day and then we report them to agencies and authorities.
 We keep an updated blacklist that can be used by a browser plugin or firewall to block fraudulent websites.
 We report scammers that are using Twitter or Telegram to scam victims.
+
 #
 
 ### Why are these websites still online
 
 These website usually last last a few years. During the period of their activity very often the real IP of the server hosting this website is protected by systems like CloudFlare and for this reason the authorities find it difficult to completely remove the website from the internet.
+
 #
 
 ### What you can do to avoid visiting these sites
@@ -24,7 +26,6 @@ You can donwload our blacklists:
 - https://github.com/amoccia/CryptoScamHunter/blob/main/BlackList
 
 and use it in a browser plugin, in your firewall or updating your PC's host file.
-
 
 #
 
