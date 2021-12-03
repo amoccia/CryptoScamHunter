@@ -26,7 +26,7 @@ You can donwload our blacklists:
 
 and use it in a browser plugin, in your firewall or updating your PC's host file.
 
-You can join our Telegram channel: https://t.me/cryptoscamhunterteam to recieve alers about scam website.
+You can join our Telegram channel: https://t.me/cryptoscamhunterteam to receive alerts about scam website.
 
 #
 
