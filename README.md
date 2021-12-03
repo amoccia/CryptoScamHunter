@@ -33,9 +33,15 @@ and use it in a browser plugin, in your firewall or updating your PC's host file
 Usually scammers using Twitter and Telegram contact crypto holder to invite them to visit a website (also using a dAPP browser like Metamask).
 This is a list of website to avoid:
 
+* tradebaselimited[.]com
+
+This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+
+
 * forexcapital-trading[.]com
 
 This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+
 
 * mining-pool[.]app
 
