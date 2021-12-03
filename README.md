@@ -1,6 +1,7 @@
 # CryptoScamHunter
 
-Our project was born with the aim of making crypto-financial environment a safer place, 
+Our project was born with the aim of making crypto-financial environment a safer place.
+
 For this reason we are activily investigating and tracking websites that cheat crypto-holders.
 
 ---
