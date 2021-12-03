@@ -132,12 +132,12 @@ This website acts like an investment company website that accepts funds from cus
 
 If you have been a victim of these sites:
 
-* identify the fraudolent transaction ID (hash) with a blockchain explorer
-* please report your case to the appropriate authorities, you may have a chance in the future to get your money back:
- - https://complaint.ic3.gov/default.aspx - US GOV Complaint Referral Form Internet Crime Complaint Center
- - https://www.scamwatch.gov.au/report-a-scam - AUS GOV form to report a scam to the ACCC
- - https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/ - CitizenAdvice UK form to report a scam
- - https://www.europol.europa.eu/report-a-crime/report-cybercrime-online - EUROPOL Report Cybercrime online
+. identify the fraudolent transaction ID (hash) with a blockchain explorer
+. please report your case to the appropriate authorities, you may have a chance in the future to get your money back:
+- https://complaint.ic3.gov/default.aspx - US GOV Complaint Referral Form Internet Crime Complaint Center
+- https://www.scamwatch.gov.au/report-a-scam - AUS GOV form to report a scam to the ACCC
+- https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/ - CitizenAdvice UK form to report a scam
+- https://www.europol.europa.eu/report-a-crime/report-cybercrime-online - EUROPOL Report Cybercrime online
 
 You have to fill the form by yourself because this asks for personal information about you.
 We will never contact you to help fill this form! You have to do it by yourself.
