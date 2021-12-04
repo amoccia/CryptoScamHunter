@@ -51,7 +51,7 @@ This website acts like an investment company website that accepts funds from cus
 This website acts like a MINING platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
 
 
-* defi-usdtetc[.]com or eth-gwing[.]com
+* defi-usdtetc[.]com or eth-gwing[.]com or eth-flowcell[.]com
 
 This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
 
