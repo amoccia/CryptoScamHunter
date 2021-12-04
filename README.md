@@ -37,6 +37,8 @@ Usually scammers using Twitter and Telegram contact crypto holder to invite them
 
 We keep looking for new scam sites using Google Dork and other techniques.
 
+#
+
 We catalog the websites in two distinct categories of scams: "Fake Investment/Ponzi Scheme" and "Fake Mining or Defi platform".
 
 "Fake Investment/Ponzi Scheme" https://www.sec.gov/files/ia_virtualcurrencies.pdf 
