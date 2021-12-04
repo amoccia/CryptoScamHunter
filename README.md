@@ -34,98 +34,82 @@ You can join our Telegram channel: https://t.me/cryptoscamhunterteam to receive 
 ### CryptoScamHunter-BlackList
 
 Usually scammers using Twitter and Telegram contact crypto holder to invite them to visit a website (also using a dAPP browser like Metamask).
-This is a list of website to avoid:
 
-* tradebaselimited[.]com
+We keep looking for new scam sites using Google Dork and other techniques.
 
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+We catalog the websites in two distinct categories of scams: "Fake Investment/Ponzi Scheme" and "Fake Mining or Defi platform".
 
+"Fake Investment/Ponzi Scheme" https://www.sec.gov/files/ia_virtualcurrencies.pdf 
 
-* forexcapital-trading[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
-* mining-pool[.]app
-
-This website acts like a MINING platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
-
-
-* defi-usdtetc[.]com or eth-gwing[.]com or eth-flowcell[.]com
-
-This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
-
-
-* webwalletchain[.]com
-
-This website acts like a DEFI platform where you can connect your wallet in order to deposit funds and earn interest. Don't connect your wallet or your funds will be stolen! 
+The scammers promise extremely high profits but are not clear about their earning strategies. Victims are encouraged to find new investors to keep the illusion alive as long as possible. Avoid these website:
 
 
 * assetgroup[.]io
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
+* forexcapital-trading[.]com
+* tradebaselimited[.]com
 * premiumalliancelimited[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * equitcapital[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * cryptofxtrades[.]online
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * jaingxhuang[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
 * maxtradeinvest[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * expertdreamtrade[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
 * bestsafecryptofx[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * agmarkets[.]cc
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * cryptohingelimited[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * coin-connect[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * financecurrent[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
-
 * newfinancialtechnology[.]com
-
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
-
 * effortwe365[.]com
 
-This website acts like an investment company website that accepts funds from customers in order to invest them and earn a profit but it's a fraud. Don't send funds to them or you will lose them!
+#
+
+"Fake Mining or Defi platform" 
+
+The scammers suggest a DeFi or Mining platform using a link. Victims are encouraged to connect their wallets in order to earn a profit. Avoid these website:
+
+
+* mining-pool[.]app
+* defi-usdtetc[.]com
+* eth-gwing[.]com
+* eth-flowcell[.]com
+* webwalletchain[.]com
+* coinimtoken[.]com
+* coinu2e[.]com
+* jingdian114[.]net
+* aneswap[.]com
+* boster[.]io
+* buxspcdv[.]com
+* cpowerex[.]com
+* deppspace[.]xyz
+* dpethmin[.]com
+* eth-666[.]app
+* eth-ao[.]com
+* ethbe[.]app
+* eth-coinbasedf[.]com
+* ethdapp[.]net
+* eth-dig[.]com
+* eth-emsc[.]com
+* ethggg[.]com
+* ethgo[.]app
+* ethgo[.]org
+* eth-mi[.]com
+* eth-miningarea[.]com
+* eth-mo[.]com
+* eth-nano[.]biz
+* eth-nano[.]games
+* eth-top[.]com
+* ethvip[.]me
+* lperc[.]com
+* netaza[.]ga
+* nowcentral[.]ga
+* nownetic[.]ga
+* oneresearch[.]ga
+* seoaholic[.]ga
+* tetranet[.]ga
+* titanseo[.]ga
+* uniswap-defi[.]net
+* usus[.]dev
+* vevoeth[.]xyz
 
 #
 
